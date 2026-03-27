@@ -24,7 +24,3 @@ It allows administrators to store, update, and manage driver records in a struct
 * 🎨 **HTML, CSS, Bootstrap**
 * ⚙️ **C#**
 
-* IT Undergraduate
-* Passionate about Web Development, Software Engineering & QA Testing
-
-
